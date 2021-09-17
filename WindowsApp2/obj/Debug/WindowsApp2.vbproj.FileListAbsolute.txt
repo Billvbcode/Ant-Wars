@@ -1,0 +1,13 @@
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.FrmAnts.resources
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\Bill\Desktop\LearnVb\23-AntWars\WindowsApp2\obj\Debug\WindowsApp2.pdb
